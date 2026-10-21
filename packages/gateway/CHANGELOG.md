@@ -1,5 +1,12 @@
 # @ai-sdk/gateway
 
+## 3.0.220
+
+### Patch Changes
+
+- fa49238: Add Voxtral 3 speech model IDs and support speech expressiveness and pronunciation hints in the Mistral provider.
+- 965effe: Backport: chore(provider/gateway): update gateway model settings files
+
 ## 3.0.219
 
 ### Patch Changes
